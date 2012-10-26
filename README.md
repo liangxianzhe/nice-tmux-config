@@ -2,9 +2,9 @@
 
 Tmux is a terminal multiplexer. http://tmux.sourceforge.net/
 
-1. Easy to split screen and create windows in one terminal. Easy to copy and paste.
+## Easy to split screen and create windows in one terminal. Easy to copy and paste.
 
-2. Especially nice when using ssh. No need for multiple ssh connection.
+## Especially nice when using ssh. No need for multiple ssh connection.
 
 This config is to make it easy to use.
 
@@ -22,7 +22,7 @@ Leader = `
 
 First press `, then use following command:
 
-1. For Pane
+## For Pane
 
 " = split pane horizontally
 
@@ -38,7 +38,7 @@ q = show pane indexes
 
 q + <index> = go to the pane with index
 
-2. For Window
+## For Window
 
 c = create a new window
 
@@ -56,21 +56,14 @@ w = show all windows
 
 , = name current window
 
-3. For session (added later)
+## For session (added later)
 
 d = dettach
 
 s = show all sessions
 
-4. For general
+##For general
+
 ? = show all command
 
-[ = enter into copy mode:
-
-    move using hjkl,
-
-    start select using <space>,
-
-    copy selected area using <enter>,
-
-    exit copy mode using q
+[ = enter into copy mode: move using hjkl, start select using <space>, copy selected area using <enter>, exit copy mode using q
