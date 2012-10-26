@@ -2,9 +2,9 @@
 
 Tmux is a terminal multiplexer. http://tmux.sourceforge.net/
 
-## Easy to split screen and create windows in one terminal. Easy to copy and paste.
+Easy to split screen and create windows in one terminal. Easy to copy and paste.
 
-## Especially nice when using ssh. No need for multiple ssh connection.
+Especially nice when using ssh. No need for multiple ssh connection.
 
 This config is to make it easy to use.
 
