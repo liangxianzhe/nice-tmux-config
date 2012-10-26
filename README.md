@@ -66,4 +66,4 @@ s = show all sessions
 
 ? = show all command
 
-[ = enter into copy mode: move using hjkl, start select using <space>, copy selected area using <enter>, exit copy mode using q
+[ = enter into copy mode: move using hjkl, start select using space, copy selected area using enter, exit copy mode using q
